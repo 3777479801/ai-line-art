@@ -26,7 +26,7 @@
 | ![建筑原图](https://img.sipingseo.com/file/ps-line-art-extraction/aIwl3ZRJ.webp) | ![建筑线稿](https://img.sipingseo.com/file/ps-line-art-extraction/N1K6DYD9.webp) |
 
 ### 2. 人物肖像转换 (艺术质感提取)
-完美呈现面部结构、五官细节与发丝纹理，为插画创作提供高质量的临摹底稿。
+完美呈现面部结构、五官细节与发丝纹理，为插画创作提供高质量的临摹底稿
 | 原始肖像 | AI 提取线稿 |
 | :--- | :--- |
 | ![人物原图](https://img.sipingseo.com/file/ps-line-art-extraction/SoIqYagq.webp) | ![人物线稿](https://img.sipingseo.com/file/ps-line-art-extraction/k3IgSg6m.webp) |
