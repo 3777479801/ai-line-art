@@ -20,7 +20,7 @@
 ## 📸 效果展示 (Before & After)
 
 ### 1. 建筑线稿提取 (结构精准呈现)
-智能识别建筑轮廓与透视线条，一键生成专业级建筑草图，适用于方案展示与施工图参考。
+智能识别建筑轮廓与透视线条，一键生成专业级建筑草图，适用于方案展示与施工图参考
 | 原始照片 | AI 提取线稿 |
 | :--- | :--- |
 | ![建筑原图](https://img.sipingseo.com/file/ps-line-art-extraction/aIwl3ZRJ.webp) | ![建筑线稿](https://img.sipingseo.com/file/ps-line-art-extraction/N1K6DYD9.webp) |
