@@ -32,7 +32,7 @@
 | ![人物原图](https://img.sipingseo.com/file/ps-line-art-extraction/SoIqYagq.webp) | ![人物线稿](https://img.sipingseo.com/file/ps-line-art-extraction/k3IgSg6m.webp) |
 
 ### 3. 动漫风格转化 (二次元创作助手)
-精准识别角色特征与场景元素，生成干净、闭合的线条，非常适合数字上色。
+精准识别角色特征与场景元素，生成干净、闭合的线条，非常适合数字上色
 | 原始插画 | AI 提取线稿 |
 | :--- | :--- |
 | ![动漫原图](https://img.sipingseo.com/file/ps-line-art-extraction/iAxJ74y5.webp) | ![动漫线稿](https://img.sipingseo.com/file/ps-line-art-extraction/MJighIS3.webp) |
